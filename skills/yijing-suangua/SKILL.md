@@ -5,6 +5,10 @@ description: 易经占卜大师——调用李小问 API 起卦、解卦，支�
 homepage: https://github.com/liquanyu123/yijing-suangua
 metadata:
   version: 0.1.0
+  requires_credentials: true
+  credential_keys:
+    - API_KEY
+    - RENDER_STYLE
   openclaw:
     emoji: "☯"
     priority: 85
