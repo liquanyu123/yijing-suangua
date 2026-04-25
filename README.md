@@ -53,11 +53,6 @@
 npx clawhub@latest install yijing-suangua
 ```
 
-**手动复制：**
-```bash
-cp -r /path/to/yijing-suangua/skills/yijing-suangua ~/.claude/skills/yijing-suangua
-```
-
 **📦 直接下载 zip**：
 - 最新版：<https://github.com/liquanyu123/yijing-suangua/releases/latest/download/yijing-suangua.zip>
 - 仓库内 mirror：<https://github.com/liquanyu123/yijing-suangua/raw/main/skills/yijing-suangua.zip>
