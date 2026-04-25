@@ -48,11 +48,6 @@
 /plugin install yijing-suangua@yijing-suangua-marketplace
 ```
 
-**OpenClaw：**
-```bash
-openclaw skills install yijing-suangua
-```
-
 **ClawHub：**
 ```bash
 npx clawhub@latest install yijing-suangua
@@ -154,11 +149,6 @@ AI 会调用本 skill 起卦并返回解读。
 ```bash
 /plugin marketplace add liquanyu123/yijing-suangua
 /plugin install yijing-suangua@yijing-suangua-marketplace
-```
-
-**OpenClaw:**
-```bash
-openclaw skills install yijing-suangua
 ```
 
 **ClawHub:**
