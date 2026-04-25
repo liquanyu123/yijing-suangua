@@ -5,23 +5,11 @@
     "email": "liquanyufg@gmail.com",
     "url": "https://github.com/liquanyu123"
   },
-  "metadata": {
-    "description": "易经占卜大师 · Yijing Divination Master — AI 驱动的易经占卜 skill，调用李小问 API 起卦解卦，支持图文与艺术字两种渲染"
-  },
   "plugins": [
     {
       "name": "yijing-suangua",
-      "description": "易经占卜大师 - 调用李小问 API 起卦、解卦，支持图文和艺术字两种渲染风格",
-      "homepage": "https://wenmutang.top",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/liquanyu123/yijing-suangua.git"
-      },
-      "version": "0.1.0",
-      "author": {
-        "name": "liquanyu123",
-        "url": "https://github.com/liquanyu123"
-      }
+      "source": "./plugins/yijing-suangua",
+      "description": "易经占卜大师 - 调用李小问 API 起卦、解卦，支持图文和艺术字两种渲染风格"
     }
   ]
 }

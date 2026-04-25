@@ -1,44 +1,21 @@
 {
   "name": "yijing-suangua",
   "description": "易经占卜大师 - 调用李小问 API 起卦、解卦，支持图文和艺术字两种渲染风格",
-  "version": "0.1.0",
+  "version": "1.0.2",
   "author": {
     "name": "liquanyu123",
     "url": "https://github.com/liquanyu123"
   },
-  "homepage": "https://wenmutang.top",
+  "homepage": "https://github.com/liquanyu123/yijing-suangua",
   "repository": "https://github.com/liquanyu123/yijing-suangua",
   "license": "MIT",
   "category": "culture",
   "keywords": [
     "yijing",
     "iching",
-    "i-ching",
     "divination",
-    "fortune-telling",
-    "hexagram",
-    "chinese-culture",
-    "zhangyi",
-    "liuyao",
-    "meihua-yishu",
-    "buchua",
-    "suanming",
-    "yijing-reading",
     "易经",
-    "周易",
     "占卜",
-    "算卦",
-    "起卦",
-    "摇卦",
-    "六爻",
-    "卦象",
-    "解卦",
-    "算命",
-    "求签",
-    "卜卦",
-    "问卦",
-    "测字",
-    "运势",
-    "梅花易数"
+    "算卦"
   ]
 }
