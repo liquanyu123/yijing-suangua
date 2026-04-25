@@ -44,7 +44,7 @@ metadata:
     - 未配置时：引导用户获取 Key → 本 agent 有权限则写入本文件，无权限则引导用户手动编辑本文件。最终替换<YOUR_API_KEY>这个占位符
     - 获取方式（二选一）：
         - 微信搜索小程序【李小问】→「我的」页面复制
-        - 浏览器打开 https://wenmutang.top → 微信扫码进入小程序 →「我的」页面复制
+        - 浏览器打开 `https://wenmutang.top`  →  微信扫码进入小程序 →「我的」页面复制
 
 - **RENDER_STYLE**：`<YOUR_RENDER_STYLE>`
     - **必填**，否则不知道该按照什么模式展现
