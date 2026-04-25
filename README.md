@@ -21,7 +21,15 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo.png" alt="yijing-suangua demo" width="700">
+  <img src="assets/示例1.png" alt="示例1 - 问事业" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/示例2.png" alt="示例2 - 问健康" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/示例3.png" alt="示例3 - 问运势" width="700">
 </p>
 
 ---
