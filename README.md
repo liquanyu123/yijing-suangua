@@ -10,7 +10,7 @@
     <a href="https://github.com/liquanyu123/yijing-suangua/stargazers"><img src="https://img.shields.io/github/stars/liquanyu123/yijing-suangua?style=social" alt="GitHub Stars"></a>
     <a href="https://github.com/liquanyu123/yijing-suangua/forks"><img src="https://img.shields.io/github/forks/liquanyu123/yijing-suangua?style=social" alt="GitHub Forks"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License"></a>
-    <a href="https://github.com/liquanyu123/yijing-suangua"><img src="https://img.shields.io/badge/version-0.1.0-orange" alt="Version"></a>
+    <a href="https://github.com/liquanyu123/yijing-suangua"><img src="https://img.shields.io/badge/version-1.0.2-orange" alt="Version"></a>
   </p>
   <p align="center">
     <a href="#quick-start">快速开始</a> ·
@@ -50,9 +50,12 @@
 
 **OpenClaw：**
 ```bash
-clawhub install yijing-suangua
-# 或
-npx skills add liquanyu123/yijing-suangua
+openclaw skills install liquanyu123/yijing-suangua
+```
+
+**ClawHub：**
+```bash
+npx clawhub@latest install yijing-suangua
 ```
 
 **手动复制：**
@@ -147,10 +150,27 @@ AI 会调用本 skill 起卦并返回解读。
 
 ### Quick Start
 
-1. Install: `/plugin marketplace add liquanyu123/yijing-suangua`
-2. Get API Key: Search WeChat mini-program "李小问" or visit <https://wenmutang.top>
-3. Configure: Replace `<YOUR_API_KEY>` in `SKILL.md`
-4. Use: Say "帮我起一卦" or "Give me a divination reading"
+**Claude Code:**
+```bash
+/plugin marketplace add liquanyu123/yijing-suangua
+/plugin install yijing-suangua@yijing-suangua-marketplace
+```
+
+**OpenClaw:**
+```bash
+openclaw skills install liquanyu123/yijing-suangua
+```
+
+**ClawHub:**
+```bash
+npx clawhub@latest install yijing-suangua
+```
+
+### Configuration
+
+1. Get API Key: Search WeChat mini-program "李小问" or visit <https://wenmutang.top>
+2. Configure: Replace `<YOUR_API_KEY>` and `<YOUR_RENDER_STYLE>` in `SKILL.md`
+3. Use: Say "帮我起一卦" or "Give me a divination reading"
 
 ### Privacy
 
