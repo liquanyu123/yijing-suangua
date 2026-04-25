@@ -50,7 +50,7 @@
 
 **OpenClaw：**
 ```bash
-openclaw skills install liquanyu123/yijing-suangua
+openclaw skills install yijing-suangua
 ```
 
 **ClawHub：**
@@ -158,7 +158,7 @@ AI 会调用本 skill 起卦并返回解读。
 
 **OpenClaw:**
 ```bash
-openclaw skills install liquanyu123/yijing-suangua
+openclaw skills install yijing-suangua
 ```
 
 **ClawHub:**
