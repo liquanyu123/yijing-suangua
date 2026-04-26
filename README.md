@@ -48,6 +48,11 @@
 /plugin install yijing-suangua@yijing-suangua-marketplace
 ```
 
+**OpenClaw：**
+```bash
+openclaw skills install yijing-suangua
+```
+
 **ClawHub：**
 ```bash
 npx clawhub@latest install yijing-suangua
